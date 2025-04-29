@@ -14,9 +14,12 @@ This project is an interactive **Quiz Application** built using **React**. It pr
 
 Screenshots:
 
-<img width="1440" alt="Screenshot 2025-04-29 at 6 50 01 PM" src="https://github.com/user-attachments/assets/e964cc17-abf5-42eb-b50a-3b1bd049cb31" />
 
-<img width="1440" alt="Screenshot 2025-04-29 at 6 49 34 PM" src="https://github.com/user-attachments/assets/fc427ca0-0517-44ac-9a8b-2acbb6ddb69c" />
+<img width="1440" alt="Screenshot 2025-04-29 at 8 17 30 PM" src="https://github.com/user-attachments/assets/f144cf20-7070-4ace-a5ec-7bda9a5e088e" />
+
+
+
+<img width="1440" alt="Screenshot 2025-04-29 at 8 17 21 PM" src="https://github.com/user-attachments/assets/42dfd19f-546b-45e2-ac63-8c24ec231324" />
 
 
 ## 🚀 Getting Started
