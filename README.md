@@ -16,6 +16,7 @@ This project is an interactive **Quiz Application** built using **React**. It pr
 
 Screenshots:
 
+![Screen Recording 2025-05-01 at 11 33 14 PM](https://github.com/user-attachments/assets/4f82c9ec-f924-4798-93a8-ea9a532ac9bb)
 
 <img width="1440" alt="Screenshot 2025-04-29 at 8 17 30 PM" src="https://github.com/user-attachments/assets/f144cf20-7070-4ace-a5ec-7bda9a5e088e" />
 
